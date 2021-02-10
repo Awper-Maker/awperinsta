@@ -18,7 +18,7 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 ### Usage:
 ```
 git clone https://github.com/Awper-Maker/awperinsta
-cd instax
+cd awperinsta
 chmod +x instax.sh
 service tor start
 bash instax.sh
